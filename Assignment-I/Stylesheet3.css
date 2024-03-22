@@ -1,0 +1,18 @@
+*{
+   background-color: black;
+   color:#84c754;
+   font-family: 'Courier New', Courier, monospace;    
+}
+h1,h2{
+    font-weight: bold;
+}
+ul li a{
+    color:black;
+}
+.borders{
+    color:white;
+    border-style: ridge;
+}
+#section3{
+    color:white;
+}
